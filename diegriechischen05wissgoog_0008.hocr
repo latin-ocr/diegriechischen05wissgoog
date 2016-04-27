@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diegriechischen05wissgoog_0008.png"; bbox 0 0 3768 5566; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 2399 1355 2458">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 471 2399 1355 2458">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 2399 1355 2458; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 471 2410 509 2455; x_wconf 79' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 529 2410 597 2456; x_wconf 69' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 616 2408 851 2456; x_wconf 68' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 872 2410 933 2455; x_wconf 71' lang='lat' dir='ltr'><strong>nne</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 954 2408 1179 2456; x_wconf 68' lang='lat' dir='ltr'><strong>meamus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1200 2411 1293 2457; x_wconf 73' lang='lat' dir='ltr'><strong>mn</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1317 2399 1355 2458; x_wconf 89' lang='grc'><strong>16</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 642 4426 1177 4483">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 642 4426 1177 4483">
+     <span class='ocr_line' id='line_1_2' title="bbox 642 4426 1177 4483; baseline 0.002 -12"><span class='ocrx_word' id='word_1_8' title='bbox 642 4426 723 4471; x_wconf 76' lang='lat' dir='ltr'><strong>Drnok</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 737 4437 784 4472; x_wconf 83' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 798 4426 914 4481; x_wconf 71' lang='lat' dir='ltr'><strong>August</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 927 4427 1013 4472; x_wconf 74' lang='lat' dir='ltr'>Prion</span> <span class='ocrx_word' id='word_1_12' title='bbox 1028 4428 1053 4471; x_wconf 85' lang='lat' dir='ltr'><strong>ln</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1068 4426 1177 4483; x_wconf 71' lang='lat' dir='ltr'><strong>Leipzig.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1888 5566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1888 5566">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1888 5566; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1888 5566; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
